@@ -1,13 +1,13 @@
 {
-"NamaBot":"〔 Sempakbot 〕", 
-"NomorOwner":["6288277562022@s.whatsapp.net","6283836899381@s.whatsapp.net"], 
-"NomorBot":"6283836899381@s.whatsapp.net",
-"TargetPC":"6288277562022@s.whatsapp.net",
-"NamaOwner":"Lord_RzLModz",
-"wm":")-----------〔 Sempakbot 〕-----------(",
+"NamaBot":"〔 rikka bot 〕", 
+"NomorOwner":["60102810046@s.whatsapp.net","0@s.whatsapp.net"], 
+"NomorBot":"60102810046@s.whatsapp.net",
+"TargetPC":"60102810046@s.whatsapp.net",
+"NamaOwner":"Lord_Aimanx2",
+"wm":")-----------〔 rikkabot 〕-----------(",
 "prefix":"#",
 "banchat": false,
-"autoread": false,
+"autoread": true,
 "autoketik": false,
 "autorecording": true,
 "autobio": false,
@@ -30,9 +30,9 @@
                   "ks":"[ _kodebahasa_ _teks_ ]"
                },
 "donasi":{ 
-     "gopay":"088274342094",
-      "gopayimg":"https://ibb.co/X5CLfTF",
-       "pulsa":"088274342094"
+     "gopay":"60102810046",
+      "gopayimg":"https://ibb.co/X5CLfF",
+       "pulsa":"0102810046"
          },
 "textpro":{
       "blackpink":"https://textpro.me/create-blackpink-logo-style-online-1001.html",
